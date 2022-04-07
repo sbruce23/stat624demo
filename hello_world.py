@@ -1,2 +1,1 @@
-print("Hello World! Only one time...")
-print("change something else")
+print("Hello World!")
